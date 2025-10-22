@@ -1,4 +1,4 @@
-[[DE]](README.md)/[[EN]](README_en.md)
+[[DE]](README_de.md)/[[EN]](README.md)
 
 # KI-basierte Inhaltsanayse
 
@@ -13,6 +13,7 @@ Für regelmäßigen Austausch zum Thema sei verwiesen auf die Community of Pract
 * [Fischer, A. (2025). Die Zukunft der Qualitativen Inhaltsanalyse im Zeitalter Künstlicher Intelligenz. Ein Ablaufmodell KI-basierter Inhaltsanalyse. f-bb-online 03/25.](https://www.f-bb.de/unsere-arbeit/publikationen/die-zukunft-der-qualitativen-inhaltsanalyse-im-zeitalter-kuenstlicher-intelligenz-ein-ablaufmodell/)
 
 * Fischer, A. (im Druck). The Future of Qualitative Content Analysis in the Age of Artificial Intelligence in M. Tiemann & J. Dörpinghaus (Eds.), Advances in Computational Social Sciences.
+
 
 
 
