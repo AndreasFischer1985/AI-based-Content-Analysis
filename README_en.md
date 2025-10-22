@@ -10,9 +10,10 @@ For regular exchanges on this topic, please refer to the Community of Practice [
 
 ## Further information
 
-* [[Fischer, A. (2025). Die Zukunft der Qualitativen Inhaltsanalyse im Zeitalter Künstlicher Intelligenz. Ein Ablaufmodell KI-basierter Inhaltsanalyse. f-bb-online 03/25.]](https://www.f-bb.de/unsere-arbeit/publikationen/die-zukunft-der-qualitativen-inhaltsanalyse-im-zeitalter-kuenstlicher-intelligenz-ein-ablaufmodell/)
+* [Fischer, A. (2025). Die Zukunft der Qualitativen Inhaltsanalyse im Zeitalter Künstlicher Intelligenz. Ein Ablaufmodell KI-basierter Inhaltsanalyse. f-bb-online 03/25.](https://www.f-bb.de/unsere-arbeit/publikationen/die-zukunft-der-qualitativen-inhaltsanalyse-im-zeitalter-kuenstlicher-intelligenz-ein-ablaufmodell/)
 
 * Fischer, A. (in press). The Future of Qualitative Content Analysis in the Age of Artificial Intelligence in M. Tiemann & J. Dörpinghaus (Eds.), Advances in Computational Social Sciences.
+
 
 
 
