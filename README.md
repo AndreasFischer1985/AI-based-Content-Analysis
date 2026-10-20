@@ -6,7 +6,7 @@ With a view to [The Future of Qualitative Content Analysis in the Age of Artific
 
 <img src="src/AICA.png" alt="Process model of AI-based content analysis" style="width:100%;"/>
 
-For regular exchanges on this topic, please refer to the Community of Practice [#CoP_KIPerWeb](https://github.com/AndreasFischer1985/KIPerWeb?tab=readme-ov-file#termine).  There, we develop tools on the topic (e.g., [MyQDA](https://andreasfischer1985.github.io/code-snippets/html/MyQDA.html)) and you will also find introductory materials and code examples on how to perform [AI-based content analysis in R](https://github.com/AndreasFischer1985/KIPerWeb/blob/main/cop/slides/250919-35-CoP_KIPerWeb.pdf). For the digitally sovereign and data protection-compliant use of open-weights AI on your own hardware (“on premises”), please refer to our [code snippets](https://github.com/AndreasFischer1985/code-snippets).
+For regular exchanges on this topic, please refer to the Community of Practice [#CoP_KIPerWeb](https://github.com/AndreasFischer1985/KIPerWeb?tab=readme-ov-file#termine).  There, we develop tools on the topic (e.g., [MyQDA](https://github.com/AndreasFischer1985/MyQDA)) and you will also find introductory materials and code examples on how to perform [AI-based content analysis in R](https://github.com/AndreasFischer1985/KIPerWeb/blob/main/cop/slides/250919-35-CoP_KIPerWeb.pdf). For the digitally sovereign and data protection-compliant use of open-weights AI on your own hardware (“on premises”), please refer to our [code snippets](https://github.com/AndreasFischer1985/code-snippets).
 
 ## Further information
 
